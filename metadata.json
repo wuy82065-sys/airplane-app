@@ -1,0 +1,9 @@
+
+{
+  "name": "Drone Academy - 无人机学院",
+  "description": "A comprehensive drone pilot training platform featuring courses, simulators, community sharing, and career tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
